@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Blog",
+      "date": "Jan 2,2004 01:04:20",
+      "body": "Make a Video"
+    },
+    {
+      "id": "2",
+      "title": "My second Blog",
+      "date": "Jan 1,2024 02:02:20",
+      "body": "Make a second Video"
+    }
+  ]
+}
